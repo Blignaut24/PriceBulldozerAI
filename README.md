@@ -12,6 +12,7 @@ The project data is sourced from a public Kaggle competition, which can be acces
     - [PriceBulldozerAI](#pricebulldozerai)
     - [Introduction](#introduction)
     - [ML Business Case](#ml-business-case)
+    - [Business Requirements](#business-requirements)
     - [Dataset Content](#dataset-content)
     - [Project Hypothesis and Validation](#project-hypothesis-and-validation)
     - [Explanation for linking business needs to Data Visualizations and ML tasks](#explanation-for-linking-business-needs-to-data-visualizations-and-ml-tasks)
@@ -58,6 +59,14 @@ The project data is sourced from a public Kaggle competition, which can be acces
     1. There are no ethical or privacy concerns since the Kaggle competition data is publicly published.
 10. What are the criteria for the performance goal of the predictions?
     1. The client has established the evaluation measure as the Root Mean Squared Log Error (RMSLE). The aim is to achieve the smallest possible score, indicating a more accurate prediction.
+
+[Back to Table of contents](#table-of-contents)
+
+## Business Requirements
+Fast Iron, a leading player in the heavy equipment industry, has long been grappling with the challenge of accurately predicting the auction prices of their bulldozers. With a diverse fleet of heavy machinery and an array of different uses, types, and configurations, they found it increasingly complex to appraise the value of their equipment. This uncertainty often led to either over- or under-estimation of their fleet's worth, causing financial discrepancies. Fast Iron decided to tackle this issue head-on and embarked on a mission to create a "blue book for bulldozers," a comprehensive guide that would accurately predict their equipment's auction sale price. They believed that such a solution would not just benefit them, but also prove invaluable to their customers, enabling them to better assess the value of their fleet at auction. To actualize this ambitious project, Fast Iron turned to data science, sparking the inception of the PriceBulldozerAI initiative.
+
+1. The client requires an accurate model to forecast the auction prices of bulldozers, taking into account their features and past sale prices of similar bulldozers. The model should be able to predict future sale prices with a high degree of precision, as measured by a Root Mean Squared Log Error (RMSLE) score lower than 0.25612.
+2. The client needs a user-friendly dashboard that presents the model's predictions in an easily understandable format. This dashboard will help them make informed decisions about when to sell their equipment for maximum profit and accurately plan their finances and budget.
 
 [Back to Table of contents](#table-of-contents)
 
