@@ -21,6 +21,8 @@ The project data is sourced from a public Kaggle competition, which can be acces
         - [Heroku](#heroku)
     - [Main Data Analysis and Machine Learning Libraries](#main-data-analysis-and-machine-learning-libraries)
     - [Credits](#credits)
+        - [Recognizing Contributions](#recognizing-contributions)
+        - [Ensuring Compliance with Legal and Ethical Standards](#ensuring-compliance-with-legal-and-ethical-standards)
     - [Acknowledgements](#acknowledgements)
 
 ## ML Business Case
