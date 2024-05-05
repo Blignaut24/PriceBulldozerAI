@@ -59,6 +59,8 @@ The project data is sourced from a public Kaggle competition, which can be acces
 10. What are the criteria for the performance goal of the predictions?
     1. The client has established the evaluation measure as the Root Mean Squared Log Error (RMSLE). The aim is to achieve the smallest possible score, indicating a more accurate prediction.
 
+[Back to Table of contents](#table-of-contents)
+
 ## Dataset Content
 
 [Back to Table of contents](#table-of-contents)
