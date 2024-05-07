@@ -1,4 +1,4 @@
-# you should list here the libraries you will use in the project
+# you should list here the libraries used in this project
 numpy==1.18.5
 pandas==1.4.2
 matplotlib==3.3.1
